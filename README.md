@@ -3,6 +3,7 @@ Paper and codes of my SOTN algoritm submitted to ICPR2020.
 
 Because of the file size limit, I could't upload the weights of the backbone netowrk and SOTN network, .npy and .tfrecord of the input embedding vectors.
 
+## Before run the codes.
 - Please create ./plt directory before run main.py. It will produce code histogram of each iteration.
 - Every wegiths file should be cotained at ./model directory. Please create ./model directory on your own.
 - Every .npy files should be contained at ./npy directory. Please creatd ./npy directory on your own.
